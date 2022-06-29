@@ -3,4 +3,4 @@
 
  Repositório criado durante uma aula ao vivo!
 
-Teste diret no site.
+Teste direto no site.
